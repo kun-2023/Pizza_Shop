@@ -9,7 +9,7 @@
   <li>Tableau Dashboard</li>
 </ul>
 <h2>Case Descriptions</h2>
-<p>Maven Pizza shop realized the margin of its business had been underperforming comparing to its peers. Thus, they decided to hire me as their data analyst to identify the inefficiencies in their business and places to improve so they can cut costs and enhance the revenue in order to improve their margins.</p>
+<p>Maven Pizza shop realized the margin of its business had been underperforming comparing to its peers. Thus, they decided to hire me as their data analyst to identify the inefficiencies in their business and places to improve so they can cut costs and enhance the revenue in order to improve their margins. The data analysis was done in SQL, and the dashboard was done in Tableau.</p>
 <h2>Dataset Descriptions</h2>
 <p>This four-table-datasets was downloaded from Maven data playground. It includes information on the restaurant’s order details, product details.</p>
 
